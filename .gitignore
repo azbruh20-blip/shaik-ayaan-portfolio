@@ -1,0 +1,7 @@
+.claude/
+.DS_Store
+build/peek/
+build/*.png
+build/check*.mjs
+build/__pycache__/
+build/patch_*.py
